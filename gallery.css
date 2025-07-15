@@ -49,6 +49,7 @@ img{
     width: 900px;
     flex-wrap: wrap;
     align-items: center;
+    text-align: center;
     
 }
 
